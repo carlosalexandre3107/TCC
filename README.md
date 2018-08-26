@@ -45,4 +45,5 @@ $nomeBanco  = "nomedobanco";
 
 ## Licença
 
-Não tem licença alguma. Use à vontade, espero que ajuda. Há, pode até chamar de seu.
+Não tem licença alguma. Use à vontade, espero que seja útil. 
+Pode até chamar de seu... ;)

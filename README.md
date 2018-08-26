@@ -1,6 +1,6 @@
 # SACH (Sistema de controle de jornada de trabalho) - TCC
 
-[![image.png](https://uploaddeimagens.com.br/imagens/sach_-_tela_de_lancamento-png)](https://uploaddeimagens.com.br/imagens/sach_-_tela_de_lancamento-png)
+[![image.png](https://uploaddeimagens.com.br/images/001/579/052/original/SACH_-_TELA_DE_LANÇAMENTO.png?1535292762)](https://uploaddeimagens.com.br/images/001/579/052/original/SACH_-_TELA_DE_LANÇAMENTO.png?1535292762)
 
 Devenvolvi este projetos no ano de 2014 para ajudar o setor de RH da faculdade a controlar a jornada de trabalhos dos colaboradores.
 

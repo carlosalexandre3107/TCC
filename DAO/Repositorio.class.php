@@ -75,7 +75,6 @@ abstract class Repositorio
 			
 			if($rotina == NULL)
 			{
-				//$this->FecharConexao();
 				return $query;
 			}
 			
@@ -127,7 +126,8 @@ abstract class Repositorio
 				next($objeto->campos_valores);
 			}
 		
-			echo $sql;
+			//TODO: Escreve na tela a query que será executada.
+			// echo $sql;
 			return $this->ExecutaSQL($sql,"Logar");
 	}
 
@@ -168,6 +168,7 @@ abstract class Repositorio
 			next($objeto->campos_valores);
 		}
 		
+		//TODO: Escreve na tela a query que será executada.
 		//echo $sql."</br>";
 		
 		return $this->ExecutaSQL($sql,"Inserir");
@@ -197,6 +198,7 @@ abstract class Repositorio
 		
 		$sql.=" WHERE id='$id'";
 		
+		//TODO: Escreve na tela a query que será executada.
 		//echo $sql."</br>";
 				
 		return $this->ExecutaSQL($sql,"Atualizar");
@@ -214,7 +216,8 @@ abstract class Repositorio
 	{
 		$sql = "DELETE FROM ".$objeto->tabela." WHERE id = '$value'";
 	
-		echo $sql;
+		//TODO: Escreve na tela a query que será executada.
+		//echo $sql;
 		return $this->ExecutaSQL($sql,"Deletar");
 	}
 }

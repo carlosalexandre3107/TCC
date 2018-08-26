@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.boxcadastro{
+	margin:0 auto;
+	border:1px solid #888;
+	width:950px;
+}
+
+.boxtitulo p{
+	font-family:calibri;
+	font-size:20px;
+	margin-left:30px;
+	margin-top:-14px;
+	background:#FFF;
+}
+.formcadastro{
+	font-family:calibri;
+	font-size:15px;
+	margin-left:30px;
+}
+.boxcadastro select{
+	width:174px;
+}
+.boxcadastro span{
+	margin-left:15px;
+	color:#000;
+	text-decoration:none;
+}
+.asterisco{
+	font-size: 10px;
+	color: #900; /*#060*/	
+}

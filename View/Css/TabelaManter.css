@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.boxManter{
+	width:900px;
+	margin:0 auto;
+	margin-top:10px;
+}
+.tbManter td{
+	margin:0 auto;
+}
+

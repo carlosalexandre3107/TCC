@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.boxManterCalendario{
+	width:900px;
+	margin:0 auto;
+	font-family:calibri;
+	margin-top:10px;
+}
+.boxManterCalendario span{
+	font-weight:bold;
+	font-size:16px;
+}
+.celDiaSemana{
+	width:130px;
+	right:20px;
+}
+

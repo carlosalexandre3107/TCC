@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.BoxTabelaJornada{
+	font-family:calibri;
+	margin-top:10px;
+}
+.duaslinhas{
+	background:#666;
+	margin:0 auto;
+	width:60px;
+	font-weight:bold;
+}
+.BoxTabelaJornada span{
+	color:#FFF;
+	font-size:16px;
+}
+.simples{
+	background:#666;
+	width:60px;
+	font-weight:bold;
+}
+.duascolunas{
+	width:120px;
+	font-weight:bold;
+}
+.formcadastro{
+	width:700px;
+	margin:0 auto;
+}
+.BoxTabelaJornada input {
+	text-align:center;
+}

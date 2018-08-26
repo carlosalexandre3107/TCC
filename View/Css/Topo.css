@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+#bodyTopo {
+	background:url(../Imagens/bgTopoFundo.jpg) repeat-x;
+}
+
+#boxTopo {
+	height:120px;
+	width: 950px;
+	margin: 0 auto;
+}
+#logado{
+	width:950px;
+	height:26px;
+	margin: 0 auto;
+	margin-top:10px;
+	font-weight:bold;
+	font-family:calibri;
+	color:#fff;
+
+}
+#anoExer{
+	width: 170px;
+	height: 15px;
+	margin-top: -10px;
+}
+#user{
+	width: 130px;
+	float: left;
+	margin-top:-15px;
+	margin-left:770px;
+}
+#sair{
+	width: 50px;
+	float:right;
+	margin-top:-9px;
+}

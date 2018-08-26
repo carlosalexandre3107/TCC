@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.boxFolhaRelatorio
+{
+	width: 100%;
+	height: 99%;
+	border: 1px solid green;
+}
+
+.boxTopoRelatorio {
+	height: 15%;
+	border: 1px solid red;
+}
+
+.boxLogo
+{
+	border: 1px solid yellow;
+	height: 95%;
+	width: 30%;
+}
+
+.boxTexto
+{
+	border: 1px solid black;
+	height: 95%;
+	width: 70%;
+	float: right;
+	margin-top: -6.6%;
+}
+/*
+#logado{
+	width:950px;
+	height:20px;
+	margin: 0 auto;
+	margin-top:10px;
+	font-weight:bold;
+	font-family:calibri;
+	color:#fff;
+}
+#anoExer{
+	width: 170px;
+	height: 15px;
+	margin-top: -10px;
+}
+#user{
+	width: 130px;
+	float: left;
+	margin-top:-20px;
+	margin-left:770px;
+}
+#sair{
+	width: 50px;
+	float:right;
+	margin-top:-11px;
+}
+*/
